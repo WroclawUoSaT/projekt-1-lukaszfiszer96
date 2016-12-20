@@ -242,7 +242,7 @@ namespace Blackjack
                 wynik_cyfra_komp.Text = wynik_komp.ToString();
                 rozdanie_komputera++;
             }
-
+            //SWIEZA
 
             rozdanie_gracza++;
         }
