@@ -7,3 +7,5 @@ c:\users\user\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debu
 c:\users\user\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
 c:\users\user\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Punktacja.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Punktacja.pdb
