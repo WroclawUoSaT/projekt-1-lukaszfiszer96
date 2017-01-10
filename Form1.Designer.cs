@@ -452,6 +452,7 @@
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox11.TabIndex = 35;
             this.pictureBox11.TabStop = false;
+            this.pictureBox11.BackColorChanged += new System.EventHandler(this.pictureBox11_BackColorChanged);
             // 
             // pictureBox12
             // 
